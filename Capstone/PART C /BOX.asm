@@ -17,7 +17,7 @@
     M=-1
 
 (DRAW)
-    // Starting row 56
+    // Starting row 40
     @17664
     D=A
     @ADDR
